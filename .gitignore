@@ -1,0 +1,5 @@
+﻿config/ai.php
+config/database.php
+.env
+uploads/
+import/termine/

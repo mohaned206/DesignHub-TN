@@ -1,0 +1,9 @@
+IMPORT EN MASSE DES TEMPLATES
+-----------------------------
+1. Copiez ici vos fichiers par paires, avec le MEME nom :
+      logo-cafe.jpg   +   logo-cafe.psd
+      menu-resto.jpg  +   menu-resto.psd
+   (aperçu : jpg, png ou webp | fichier source : psd, zip, ai, fig...)
+2. Ouvrez http://localhost/DesignHub-TN/import-templates.php
+3. Choisissez le designer auteur, la catégorie et le prix, puis cliquez sur Importer.
+Les fichiers importés sont déplacés dans import/termine/.
