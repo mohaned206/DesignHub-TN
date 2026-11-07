@@ -1,4 +1,26 @@
 # DesignHub-TN
+## About the Project
+
+DesignHub-TN is a university mini-project developed as part of the GTIC degree.
+
+The platform aims to connect freelance designers with clients through designer profiles, portfolios, project management, a graphic resources marketplace, and a rule-based matching system.
+
+## Main Features
+
+- User registration and authentication
+- Designer profiles and portfolios
+- Project creation and management
+- Designer-client matching
+- Graphic resources marketplace
+- Dashboard and activity statistics
+
+## Technologies
+
+- PHP 8
+- MySQL / MariaDB
+- HTML, CSS, JavaScript
+- PDO
+- XAMPP
 
 Plateforme web de mise en relation entre **clients** et **designers freelance** (mini-projet de Licence GTIC).
 Technologies : HTML, CSS, JavaScript simple, **PHP 8 (PDO)**, **MySQL / MariaDB**, XAMPP.
