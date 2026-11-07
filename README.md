@@ -158,3 +158,12 @@ Voir **`docs/RESUME_TECHNIQUE.md`** pour l'architecture, les tables, les fonctio
 ## Rôle administrateur
 
 Connexion avec `admin@designhub.tn` : l'espace `admin.php` affiche les statistiques générales et permet de supprimer un utilisateur, un projet, une ressource ou un avis non conforme. Chaque suppression exige un motif et est tracée dans le journal (`admin_logs`). Base déjà installée : importer `database/upgrade-admin.sql`.
+
+
+## Screenshots
+
+![Homepage](<img width="1897" height="911" alt="Screenshot 2026-11-07 134409" src="https://github.com/user-attachments/assets/a84838af-1c0a-4e8b-8711-dd1be41100e9" />)
+
+![Designer](<img width="1900" height="908" alt="Screenshot 2026-11-07 134422" src="https://github.com/user-attachments/assets/aa5949a1-a107-430d-914a-f55a16e0b937" />)
+
+![Marketplace](<img width="1895" height="902" alt="Screenshot 2026-11-07 134529" src="https://github.com/user-attachments/assets/ee633f93-fe6f-4b1e-8864-ec351a6e0ae4" />)
